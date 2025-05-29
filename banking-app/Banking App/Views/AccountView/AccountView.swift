@@ -106,6 +106,7 @@ struct BankCardView: View {
         .frame(height: 225)
         .background(.blue.gradient)
         .cornerRadius(10)
+        .shadow(radius: 5, y: 10)
         .padding()
     }
 }
