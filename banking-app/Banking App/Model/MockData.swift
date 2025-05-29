@@ -36,4 +36,5 @@ struct MockData {
                     amount: -219.00)
     ]
     
+    static let sampleTransaction = transactions.first!
 }
